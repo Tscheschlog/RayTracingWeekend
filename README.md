@@ -60,5 +60,3 @@ This was created while following along the <i>Ray Tracing In One Weekend</i> By 
 ### Image 18
 ![i_18](https://user-images.githubusercontent.com/72578289/223852419-39001165-41b9-48a3-9726-01a4d76c26cc.png)
 
-### Image 19
-![i_19](https://user-images.githubusercontent.com/72578289/223852443-215dd848-4238-4093-8345-fe0722173789.png)
